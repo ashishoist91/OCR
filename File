@@ -1,0 +1,26 @@
+https://www.youtube.com/watch?v=aEMSxiXctPk
+https://www.youtube.com/watch?v=gZyk2JtCSG0
+http://tphangout.com/how-to-use-the-tesseract-api-to-perform-ocr-in-your-java-code/
+http://tess4j.sourceforge.net/tutorial/
+http://www.jbrandsma.com/news/2015/12/07/ocr-with-java-and-tesseract/
+
+
+<dependencies>
+	   <!-- https://mvnrepository.com/artifact/net.sourceforge.tess4j/tess4j -->
+		<dependency>
+		    <groupId>net.sourceforge.tess4j</groupId>
+		    <artifactId>tess4j</artifactId>
+		    <version>4.0.1</version>
+		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/commons-logging/commons-logging -->
+		<!-- https://mvnrepository.com/artifact/commons-logging/commons-logging -->
+		<dependency>
+		    <groupId>commons-logging</groupId>
+		    <artifactId>commons-logging</artifactId>
+		    <version>1.0.4</version>
+		</dependency>
+
+		
+
+	</dependencies>
